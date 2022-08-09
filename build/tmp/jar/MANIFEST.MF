@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Rundeck-Plugin-Classnames: com.plugin.mongodb.Mongodb
+Rundeck-Plugin-File-Version: 0.1.0
+Rundeck-Plugin-License: Apache 2.0
+Rundeck-Plugin-Tags: java,WorkflowStep
+Rundeck-Plugin-Source-Link: Please put the link to your source repo he
+ re
+Rundeck-Plugin-Target-Host-Compatibility: all
+Rundeck-Plugin-Description: Provide a short description of your plugin
+  here.
+Rundeck-Plugin-Rundeck-Compatibility-Version: 3.x
+Rundeck-Plugin-Version: 2.0
+Rundeck-Plugin-Name: mongodb
+Rundeck-Plugin-Libs: lib/mongodb-driver-sync-4.3.0.jar lib/mongodb-dri
+ ver-core-4.3.0.jar lib/bson-4.3.0.jar
+Rundeck-Plugin-Archive: true
+
